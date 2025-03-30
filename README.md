@@ -54,7 +54,7 @@ This Flask-based web app uses a deep learning model to detect and classify disea
 ### 🔹 Step 1: Clone the Repository
 ```bash
 git clone https://github.com/garvit1420/Plant-disease-detection.git
-cd apple-leaf-disease-detector  
+cd Plant-disease-detector  
 ```
 
 ### 🔹 Step 2: Set up virtual environment
